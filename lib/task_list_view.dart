@@ -9,7 +9,7 @@ final model = TaskModel();
 final controller = TaskController();
 return Scaffold(
 appBar: AppBar(
-title: const Text('TODO'),
+title: const Text('Danh sách công việc'),
 actions: [
 IconButton(
 onPressed: () {
