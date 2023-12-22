@@ -20,7 +20,7 @@ return const AddTaskDialog();
 },
 );
 },
-icon: const Icon(Icons.add),
+icon: const Icon(Icons.note_add_sharp),
 )
 ],
 ),
